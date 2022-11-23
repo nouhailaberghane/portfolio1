@@ -257,20 +257,9 @@ html{
     font-size: 50px;
     text-align: center;
     padding-bottom: 3rem;
-    color: var(--btn-color);
+    color: #cb9b51;
     letter-spacing: 1px;
-    background-image: linear-gradient(
-        to right,
-        #462523 0,
-               #cb9b51 22%, 
-        #f6e27a 45%,
-        #f6f2c0 50%,
-        #f6e27a 55%,
-        #cb9b51 78%,
-        #462523 100%
-        );
-       color:transparent;
-       -webkit-background-clip:text;
+    
 }
 .main-gallery{
     display: flex;
@@ -329,18 +318,7 @@ html{
     font-size: 45px;
     text-align: center;
     padding: 0.5rem 0;
-    background-image: linear-gradient(
-        to right,
-        #462523 0,
-               #cb9b51 22%, 
-        #f6e27a 45%,
-        #f6f2c0 50%,
-        #f6e27a 55%,
-        #cb9b51 78%,
-        #462523 100%
-        );
-       color:transparent;
-       -webkit-background-clip:text;
+    color: #cb9b51;
 }
 .main-menu-food{
     margin-top: 2rem;
